@@ -1,5 +1,7 @@
 dir
+pues
 wmic bios get serialnumber
+pues
 wmic nic get macaddress
 getmac
 wmic cpu
